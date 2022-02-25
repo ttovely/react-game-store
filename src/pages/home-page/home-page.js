@@ -165,6 +165,69 @@ const GAMES = [
         id: 18,
         description: 'The Sims 4 — однопользовательская компьютерная игра в жанре симулятора жизни, четвёртая по счёту из серии игр The Sims, разработанная компанией Maxis и издаваемая Electronic Arts для Windows и macOS. ... В The Sims 4 нет чётко выраженного сюжета, а игровой процесс нелинеен и не имеет заданной конечной цели.'
     },
+    {
+        image: '/game-covers/ready.webp',
+        title: 'Ready or Not',
+        genres: ['Тактический шутер', 'Инди-игра'],
+        video: 'https://www.youtube.com/embed/0PH_f3zo5_A',
+        price: 21,
+        id: 19,
+        description: 'Переведено с английского языка.-Ready or Not — тактический шутер от первого лица от VOID Interactive. Он был выпущен в раннем доступе Steam 17 декабря 2021 года.The Sims 4 — однопользовательская компьютерная игра в жанре симулятора жизни, четвёртая по счёту из серии игр The Sims, разработанная компанией Maxis и издаваемая Electronic Arts для Windows и macOS. ... В The Sims 4 нет чётко выраженного сюжета, а игровой процесс нелинеен и не имеет заданной конечной цели.'
+    },
+    {
+        image: '/game-covers/borderlands.jpg',
+        title: 'Borderlands 3',
+        genres: ['Многопользовательская игра'],
+        video: 'https://www.youtube.com/embed/tQj8CLKoTCs',
+        price: 18,
+        id: 20,
+        description: 'Borderlands 3 — компьютерная игра в жанре шутера от первого лица с элементами RPG, разработанная американской студией Gearbox Software. Игра стала четвёртой в серии Borderlands и является продолжением Borderlands 2. Выход игры состоялся в 2019 году на платформах Windows, macOS, PlayStation 4 и Xbox One.'
+    },
+    {
+        image: '/game-covers/callofduty.jpg',
+        title: 'Call of Duty®: Black Ops III',
+        genres: ['Трехмерный шутер', 'Первое лицо'],
+        video: 'https://www.youtube.com/embed/qAUYNIDEJ6o',
+        price: 24,
+        id: 21,
+        description: 'Call of Duty: Black Ops III — компьютерная игра в жанре научно-фантастического трёхмерного шутера от первого лица, двенадцатая во франшизе Call of Duty и третья в сюжетной подсерии Black Ops, начинавшейся как продолжение от кампании World at War; также последняя игра во франшизе, изданная на консолях седьмого поколения.'
+    },
+    {
+        image: '/game-covers/farcry.jpg',
+        title: 'Far Cry®',
+        genres: ['Шутер от первого лица'],
+        video: 'https://www.youtube.com/embed/Fe7LnzvINp0',
+        price: 24,
+        id: 22,
+        description: 'Far Cry — серия компьютерных игр в жанре шутера от первого лица и action-adventure.'
+    },
+    {
+        image: '/game-covers/superhot.webp',
+        title: 'The COMPLETE SUPERHOT Bundle',
+        genres: ['Экшен', 'Инди'],
+        video: 'https://www.youtube.com/embed/vrS86l_CtAY',
+        price: 12,
+        id: 23,
+        description: 'Самый полный набор игр SUPERHOT! В истории. В этот набор входят SUPERHOT, заслуживший множество наград шутер от первого лица, в котором время движется только вместе с вами, SUPERHOT VR, игра для систем виртуальной реальности, которую нельзя пропустить, и SUPERHOT: MIND CONTROL DELETE, новая не-VR игра серии, на создание которой ушло более трех лет упорного труда... ради того, чтобы утолить вашу жажду получить еще больше SUPERHOT.'
+    },
+    {
+        image: '/game-covers/elden.jpg',
+        title: 'ELDEN RING',
+        genres: ['Открытый мир'],
+        video: 'https://www.youtube.com/embed/E3Huy2cdih0',
+        price: 16,
+        id: 24,
+        description: 'Elden Ring — компьютерная игра в жанре action/RPG с открытым миром, разработанная японской компанией FromSoftware и изданная компанией Bandai Namco Entertainment для платформ Windows, PlayStation 4, PlayStation 5, Xbox One и Xbox Series X/S.'
+    },
+    {
+        image: '/game-covers/ascent.jpg',
+        title: 'The Ascent',
+        genres: ['Киберпанк', 'Инди-игра', 'Квест'],
+        video: 'https://www.youtube.com/embed/Xe6zxY4A4UU',
+        price: 19,
+        id: 25,
+        description: 'Переведено с английского языка.-The Ascent - это ролевая видеоигра на тему киберпанка, разработанная шведской игровой студией Neon Giant и опубликованная Curve Digital для Microsoft Windows, Xbox Series X / S и Xbox One 29 июля 2021 года.'
+    },
 ]
 
 export const HomePage = () => {

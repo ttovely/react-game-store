@@ -12,7 +12,10 @@ export const Header = () => {
         </Link>
       </div>
       
-        <input className="input" type="text" placeholder="Поиск" />
+        <input className="search" 
+        type="text" 
+        placeholder="Поиск" 
+        />
         
       <div className="wrapper header__cart-btn-wrapper">
         <CartBlock />
