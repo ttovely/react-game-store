@@ -8,6 +8,8 @@
     padding: 10px 20px;
     z-index: 2;
     border-radius: 15px;
+    border-style: groove;
+    border-width: 1px;
 }
 
 .cart-menu__arrange {
